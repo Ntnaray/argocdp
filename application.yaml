@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Ntnaray/argocdp.git
     targetRevision: HEAD
-    path: ardocdp
+    path: ./
   destination:
     server: https://kubernetes.default.svc
     namespace: python

@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Ntnaray/argocd.git
+    repoURL: https://github.com/Ntnaray/argocdp.git
     targetRevision: HEAD
     path: .
   destination:
